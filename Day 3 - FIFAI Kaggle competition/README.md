@@ -42,11 +42,11 @@ python -m ipykernel install --user --name=FIFAI_Kaggle --display-name "FIFAI_Kag
 Ensure you have downloaded all the necessary files from the Kaggle competition page. Place the data files in the appropriate directory as specified in the notebook.
 
 # Usage
-Open the Notebook: Upload notebook, FIFAI_Kaggle_Competition.ipynb, to Google colab or Launch Jupyter Notebook locally and open the notebook.
-Run the Cells: Execute the cells in the notebook sequentially. Make sure to read the instructions and comments provided in each cell.
-Customize and Experiment: Feel free to modify the code, experiment with different models, and improve upon the baseline.
-Teamwork
-Remember to work collaboratively with your team. Each team should designate a representative for submitting the predictions on Kaggle.
+1. **Install**: If running locally install the required dependencies.
+2. **Open the Notebook**: Upload notebook, FIFAI_Kaggle_Competition.ipynb, to Google colab or launch Jupyter Notebook locally and open the notebook.
+3. **Run the Cells**: Execute the cells in the notebook sequentially. Make sure to read the instructions and comments provided in each cell.
+4. **Customize and Experiment**: Feel free to modify the code, experiment with different models, and improve upon the baseline.
+5. **Teamwork & Submission**: Remember to work collaboratively with your team. Each team should designate a representative for submitting the predictions on Kaggle. The competition link will be shared after registration.
 
 # Troubleshooting
 If you encounter any issues or have any questions, please reach out to the competition organizers or consult the Kaggle discussion forum.
